@@ -5,4 +5,5 @@ resolusi
 4
 5
 6 edit pertama
-- EDIT 8
+7 EDIT 2
+
